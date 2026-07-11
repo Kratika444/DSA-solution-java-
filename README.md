@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
@@ -90,9 +91,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->

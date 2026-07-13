@@ -116,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Kratika444/DSA-solution-java-/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->

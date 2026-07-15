@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Kratika444/DSA-solution-java-/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Kratika444/DSA-solution-java-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kratika444/DSA-solution-java-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Kratika444/DSA-solution-java-/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Kratika444/DSA-solution-java-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kratika444/DSA-solution-java-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Kratika444/DSA-solution-java-/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Kratika444/DSA-solution-java-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -152,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kratika444/DSA-solution-java-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kratika444/DSA-solution-java-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->

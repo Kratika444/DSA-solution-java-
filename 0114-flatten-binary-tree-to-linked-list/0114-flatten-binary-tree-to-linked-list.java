@@ -4,7 +4,7 @@ class Solution {
         TreeNode lst = root.left;
         TreeNode rt = root.right;
         root.left = null;
-        root.right = null;
+        // root.right = null;
         flatten(lst);
         flatten(rt);
         root.right = lst;

@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Kratika444/DSA-solution-java-/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

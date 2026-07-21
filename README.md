@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kratika444/DSA-solution-java-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kratika444/DSA-solution-java-/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Kratika444/DSA-solution-java-/tree/main/1260-shift-2d-grid/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0088-merge-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0088-merge-sorted-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy

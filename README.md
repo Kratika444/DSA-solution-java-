@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Kratika444/DSA-solution-java-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kratika444/DSA-solution-java-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0088-merge-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Kratika444/DSA-solution-java-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

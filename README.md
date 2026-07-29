@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0541-reverse-string-ii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -138,12 +139,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0541-reverse-string-ii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |

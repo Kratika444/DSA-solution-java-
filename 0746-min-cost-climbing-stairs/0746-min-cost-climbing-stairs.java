@@ -5,7 +5,7 @@ class Solution {
         int n = cost.length;
         dp = new int[n]; // 0 se n-1 tak ka store karana h;
         Arrays.fill(dp, -1);
-        return Math.min(minCost(0, cost), minCost(1, cost));
+        return Math.min(minCost(0, cost), minCost(1, cost)); // hum zero se leke chal rhe h na isliye 0 se n-1 tak ka  dp array  h 
     }
 
     private static int minCost(int i, int[] cost) {

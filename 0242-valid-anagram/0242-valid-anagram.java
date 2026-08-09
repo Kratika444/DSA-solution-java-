@@ -2,7 +2,7 @@ class Solution {
     public boolean isAnagram(String s, String t) {
 
         if(s.length()!= t.length()) return false;
-        
+
          char ch[]= s.toCharArray();
 
          HashMap<Character, Integer> map= new HashMap<>();
@@ -19,7 +19,7 @@ class Solution {
 
          for(int i=0;i<t.length(); i++){
             char c= t.charAt(i);
-            if(!map.containsKey(c)||map.get(c)==0)
+            if(!map.containsKey(c) || map.get(c)==0)
             return false;
 
             map.put(c, map.get(c)-1);

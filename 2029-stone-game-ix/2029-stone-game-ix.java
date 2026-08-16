@@ -4,8 +4,6 @@ class Solution {
         int c0 = 0;
         int c1 = 0;
         int c2 = 0;
-
-        // Count stones according to their remainder
         for (int stone : stones) {
 
             if (stone % 3 == 0) {

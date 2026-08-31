@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Kratika444/DSA-solution-java-/tree/main/0547-number-of-provinces/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kratika444/DSA-solution-java-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -60,17 +61,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Kratika444/DSA-solution-java-/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Kratika444/DSA-solution-java-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Kratika444/DSA-solution-java-/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kratika444/DSA-solution-java-/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kratika444/DSA-solution-java-/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |

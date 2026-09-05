@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Kratika444/DSA-solution-java-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Kratika444/DSA-solution-java-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kratika444/DSA-solution-java-/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Kratika444/DSA-solution-java-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Kratika444/DSA-solution-java-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Kratika444/DSA-solution-java-/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kratika444/DSA-solution-java-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Kratika444/DSA-solution-java-/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Kratika444/DSA-solution-java-/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Kratika444/DSA-solution-java-/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Kratika444/DSA-solution-java-/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1140-stone-game-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Kratika444/DSA-solution-java-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -150,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Kratika444/DSA-solution-java-/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/Kratika444/DSA-solution-java-/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Kratika444/DSA-solution-java-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Kratika444/DSA-solution-java-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kratika444/DSA-solution-java-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |

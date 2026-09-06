@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Kratika444/DSA-solution-java-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/Kratika444/DSA-solution-java-/tree/main/0198-house-robber/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kratika444/DSA-solution-java-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kratika444/DSA-solution-java-/tree/main/0509-fibonacci-number/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Kratika444/DSA-solution-java-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |

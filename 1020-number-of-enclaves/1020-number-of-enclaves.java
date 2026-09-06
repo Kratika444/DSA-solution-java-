@@ -2,13 +2,11 @@ class Solution {
     public class Pair {
         int row;
         int col;
-
         Pair(int row, int col){
             this.row= row;
             this.col=col;
         }
     }
-
     public int numEnclaves(int[][] grid) {
        
         int n = grid.length;

@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kratika444/DSA-solution-java-/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0070-climbing-stairs/) | Easy |
+| [0441-arranging-coins](https://github.com/Kratika444/DSA-solution-java-/tree/main/0441-arranging-coins/) | Easy |
 | [0486-predict-the-winner](https://github.com/Kratika444/DSA-solution-java-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kratika444/DSA-solution-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Kratika444/DSA-solution-java-/tree/main/0877-stone-game/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0441-arranging-coins](https://github.com/Kratika444/DSA-solution-java-/tree/main/0441-arranging-coins/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kratika444/DSA-solution-java-/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |

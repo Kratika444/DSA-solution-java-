@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Kratika444/DSA-solution-java-/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kratika444/DSA-solution-java-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kratika444/DSA-solution-java-/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kratika444/DSA-solution-java-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kratika444/DSA-solution-java-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kratika444/DSA-solution-java-/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Kratika444/DSA-solution-java-/tree/main/2029-stone-game-ix/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kratika444/DSA-solution-java-/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |

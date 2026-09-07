@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kratika444/DSA-solution-java-/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kratika444/DSA-solution-java-/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kratika444/DSA-solution-java-/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kratika444/DSA-solution-java-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kratika444/DSA-solution-java-/tree/main/0509-fibonacci-number/) | Easy |
 ## Depth-First Search

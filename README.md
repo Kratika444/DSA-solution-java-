@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kratika444/DSA-solution-java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Kratika444/DSA-solution-java-/tree/main/0115-distinct-subsequences/) | Hard |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kratika444/DSA-solution-java-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Kratika444/DSA-solution-java-/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0344-reverse-string/) | Easy |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Divide and Conquer
@@ -444,4 +447,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->

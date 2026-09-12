@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kratika444/DSA-solution-java-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kratika444/DSA-solution-java-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kratika444/DSA-solution-java-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/Kratika444/DSA-solution-java-/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kratika444/DSA-solution-java-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kratika444/DSA-solution-java-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Kratika444/DSA-solution-java-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/Kratika444/DSA-solution-java-/tree/main/0441-arranging-coins/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kratika444/DSA-solution-java-/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Two Pointers

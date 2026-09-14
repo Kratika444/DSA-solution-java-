@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0968-binary-tree-cameras](https://github.com/Kratika444/DSA-solution-java-/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Kratika444/DSA-solution-java-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Kratika444/DSA-solution-java-/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-range-sum-of-bst](https://github.com/Kratika444/DSA-solution-java-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Kratika444/DSA-solution-java-/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

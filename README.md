@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Kratika444/DSA-solution-java-/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/Kratika444/DSA-solution-java-/tree/main/0835-image-overlap/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Kratika444/DSA-solution-java-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Kratika444/DSA-solution-java-/tree/main/0877-stone-game/) | Medium |
 | [0941-valid-mountain-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/Kratika444/DSA-solution-java-/tree/main/0441-arranging-coins/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Kratika444/DSA-solution-java-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kratika444/DSA-solution-java-/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |

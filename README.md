@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/Kratika444/DSA-solution-java-/tree/main/0901-online-stock-span/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/Kratika444/DSA-solution-java-/tree/main/0901-online-stock-span/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,4 +462,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Kratika444/DSA-solution-java-/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Kratika444/DSA-solution-java-/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->

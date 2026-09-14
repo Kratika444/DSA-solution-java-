@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kratika444/DSA-solution-java-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kratika444/DSA-solution-java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0088-merge-sorted-array/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Kratika444/DSA-solution-java-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kratika444/DSA-solution-java-/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Kratika444/DSA-solution-java-/tree/main/0115-distinct-subsequences/) | Hard |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kratika444/DSA-solution-java-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Kratika444/DSA-solution-java-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -451,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kratika444/DSA-solution-java-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Kratika444/DSA-solution-java-/tree/main/0901-online-stock-span/) | Medium |

@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Kratika444/DSA-solution-java-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Kratika444/DSA-solution-java-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Kratika444/DSA-solution-java-/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Kratika444/DSA-solution-java-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Kratika444/DSA-solution-java-/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Kratika444/DSA-solution-java-/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/Kratika444/DSA-solution-java-/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -493,4 +496,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0968-binary-tree-cameras](https://github.com/Kratika444/DSA-solution-java-/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->

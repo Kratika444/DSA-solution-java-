@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Kratika444/DSA-solution-java-/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0486-predict-the-winner](https://github.com/Kratika444/DSA-solution-java-/tree/main/0486-predict-the-winner/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/Kratika444/DSA-solution-java-/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Kratika444/DSA-solution-java-/tree/main/0877-stone-game/) | Medium |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Kratika444/DSA-solution-java-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Kratika444/DSA-solution-java-/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0542-01-matrix](https://github.com/Kratika444/DSA-solution-java-/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Kratika444/DSA-solution-java-/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Kratika444/DSA-solution-java-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Kratika444/DSA-solution-java-/tree/main/0994-rotting-oranges/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0486-predict-the-winner](https://github.com/Kratika444/DSA-solution-java-/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0542-01-matrix](https://github.com/Kratika444/DSA-solution-java-/tree/main/0542-01-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/Kratika444/DSA-solution-java-/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/Kratika444/DSA-solution-java-/tree/main/0835-image-overlap/) | Medium |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0337-house-robber-iii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kratika444/DSA-solution-java-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kratika444/DSA-solution-java-/tree/main/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/Kratika444/DSA-solution-java-/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Kratika444/DSA-solution-java-/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Kratika444/DSA-solution-java-/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Kratika444/DSA-solution-java-/tree/main/0542-01-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/Kratika444/DSA-solution-java-/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/Kratika444/DSA-solution-java-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |

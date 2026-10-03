@@ -24,12 +24,12 @@ class Solution {
 
     }
 
-    //   static boolean ss(char a, char b)
-    // {
-    //     if( a=='('&& b==')') return true;
-    //     if( a=='{'&& b=='}') return true;
-    //     if( a=='['&& b==']') return true;
+      static boolean ss(char a, char b)
+    {
+        if( a=='('&& b==')') return true;
+        if( a=='{'&& b=='}') return true;
+        if( a=='['&& b==']') return true;
 
-    //     return false;
-    // }
+        return false;
+    }
 }

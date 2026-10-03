@@ -1,6 +1,6 @@
 
-select e.name as Employee
-FROM Employee e
-JOIN Employee m
-on e.managerId= m.id
-where e.salary>m.salary;
+select e1.name as Employee
+FROM Employee e1
+JOIN Employee e2
+on e1.managerId= e2.id
+where e1.salary>e2.salary;

@@ -545,4 +545,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0337-house-robber-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Kratika444/DSA-solution-java-/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Kratika444/DSA-solution-java-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Kratika444/DSA-solution-java-/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->

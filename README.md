@@ -553,4 +553,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0177-nth-highest-salary](https://github.com/Kratika444/DSA-solution-java-/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Kratika444/DSA-solution-java-/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Kratika444/DSA-solution-java-/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Kratika444/DSA-solution-java-/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->

@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Kratika444/DSA-solution-java-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kratika444/DSA-solution-java-/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/Kratika444/DSA-solution-java-/tree/main/0542-01-matrix/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Kratika444/DSA-solution-java-/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0541-reverse-string-ii/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kratika444/DSA-solution-java-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Kratika444/DSA-solution-java-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kratika444/DSA-solution-java-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kratika444/DSA-solution-java-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Kratika444/DSA-solution-java-/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/Kratika444/DSA-solution-java-/tree/main/0901-online-stock-span/) | Medium |
 ## Divide and Conquer
@@ -526,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Kratika444/DSA-solution-java-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kratika444/DSA-solution-java-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Design
 | Problem Name | Difficulty |

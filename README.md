@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Kratika444/DSA-solution-java-/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Kratika444/DSA-solution-java-/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/Kratika444/DSA-solution-java-/tree/main/0835-image-overlap/) | Medium |
+| [0860-lemonade-change](https://github.com/Kratika444/DSA-solution-java-/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Kratika444/DSA-solution-java-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Kratika444/DSA-solution-java-/tree/main/0877-stone-game/) | Medium |
 | [0941-valid-mountain-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0941-valid-mountain-array/) | Easy |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Kratika444/DSA-solution-java-/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0860-lemonade-change](https://github.com/Kratika444/DSA-solution-java-/tree/main/0860-lemonade-change/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Kratika444/DSA-solution-java-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kratika444/DSA-solution-java-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2029-stone-game-ix](https://github.com/Kratika444/DSA-solution-java-/tree/main/2029-stone-game-ix/) | Medium |

@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Kratika444/DSA-solution-java-/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Kratika444/DSA-solution-java-/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/Kratika444/DSA-solution-java-/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/Kratika444/DSA-solution-java-/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Kratika444/DSA-solution-java-/tree/main/0542-01-matrix/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Kratika444/DSA-solution-java-/tree/main/0242-valid-anagram/) | Easy |
+| [0455-assign-cookies](https://github.com/Kratika444/DSA-solution-java-/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0344-reverse-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0455-assign-cookies](https://github.com/Kratika444/DSA-solution-java-/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Kratika444/DSA-solution-java-/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Kratika444/DSA-solution-java-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Kratika444/DSA-solution-java-/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -564,4 +568,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/Kratika444/DSA-solution-java-/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Kratika444/DSA-solution-java-/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Kratika444/DSA-solution-java-/tree/main/0185-department-top-three-salaries/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Kratika444/DSA-solution-java-/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->

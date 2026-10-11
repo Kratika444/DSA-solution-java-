@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Kratika444/DSA-solution-java-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Kratika444/DSA-solution-java-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Kratika444/DSA-solution-java-/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Kratika444/DSA-solution-java-/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Kratika444/DSA-solution-java-/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kratika444/DSA-solution-java-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Kratika444/DSA-solution-java-/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Kratika444/DSA-solution-java-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kratika444/DSA-solution-java-/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Kratika444/DSA-solution-java-/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/Kratika444/DSA-solution-java-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Kratika444/DSA-solution-java-/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Kratika444/DSA-solution-java-/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Kratika444/DSA-solution-java-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Kratika444/DSA-solution-java-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Kratika444/DSA-solution-java-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Kratika444/DSA-solution-java-/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/Kratika444/DSA-solution-java-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kratika444/DSA-solution-java-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kratika444/DSA-solution-java-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |

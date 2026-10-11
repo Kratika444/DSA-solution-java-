@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kratika444/DSA-solution-java-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kratika444/DSA-solution-java-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kratika444/DSA-solution-java-/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kratika444/DSA-solution-java-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kratika444/DSA-solution-java-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kratika444/DSA-solution-java-/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kratika444/DSA-solution-java-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Kratika444/DSA-solution-java-/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kratika444/DSA-solution-java-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Kratika444/DSA-solution-java-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kratika444/DSA-solution-java-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
